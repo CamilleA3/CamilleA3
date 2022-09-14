@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CamilleA3
+- 👋 Hi, I’m Camille A
 - 👀 I’m interested in Data Analytics, Coding, Science and Nature!
 - 🌱 I’m currently learning Advanced SQL
 - 💞️ I’m looking to collaborate on projects!
